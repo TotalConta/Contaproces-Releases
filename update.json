@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "🎉 ¡Esta es una actualización de prueba falsa!\n\nSe corrigieron estilos CSS y rutinas del núcleo de Python.\nAquí pondrás el link a tu PDF de mejoras en el futuro.",
+  "pub_date": "2026-04-16T21:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "firma-falsa-por-ahora",
+      "url": "https://github.com/TotalConta/Contaproces-Releases/releases/download/v0.1.1/instalador-falso.msi"
+    }
+  }
+}
