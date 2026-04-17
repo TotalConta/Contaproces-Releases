@@ -1,11 +1,11 @@
 {
   "version": "0.1.1",
-  "notes": "🎉 ¡Esta es una actualización de prueba falsa!\n\nSe corrigieron estilos CSS y rutinas del núcleo de Python.\nAquí pondrás el link a tu PDF de mejoras en el futuro.",
+  "notes": "¡Version de lanzamiento oficial",
   "pub_date": "2026-04-16T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "firma-falsa-por-ahora",
-      "url": "https://github.com/TotalConta/Contaproces-Releases/releases/download/v0.1.1/instalador-falso.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFBJdGpKT2J6TnZmQnRQMUI3dlRyaGlVWkVHVHN1OHI4bEVkRzA0dUZOUzFGTllQeXRJUWVaK0kydjVpZ1NDY1ppbVdnRlR2VnhBazRNNytwNmxWS3ZueXBnbzZSandzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mzk4MzYzCWZpbGU6Q29udGFwcm9jZXNfMC4xLjFfeDY0X2VzLUVTLm1zaQpNNTl2UE5mamZFdVFxR1k0eVBJc21PWjZnQlNPWDRtZEhjWkFsQ0xjcTJOMzlqQUFlVkUxcGpVcEFXVU1jMlBYWG9aandoUEdKYzFuSkRjM0NRY3BCUT09Cg==",
+      "url": "https://github.com/TotalConta/Contaproces-Releases/releases/download/v0.1.1/Contaproces_0.1.1_x64_es-ES.msi"
     }
   }
 }
