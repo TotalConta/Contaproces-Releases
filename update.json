@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "¡Version de lanzamiento oficial",
   "pub_date": "2026-04-16T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFBJdGpKT2J6TnZmQnRQMUI3dlRyaGlVWkVHVHN1OHI4bEVkRzA0dUZOUzFGTllQeXRJUWVaK0kydjVpZ1NDY1ppbVdnRlR2VnhBazRNNytwNmxWS3ZueXBnbzZSandzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mzk4MzYzCWZpbGU6Q29udGFwcm9jZXNfMC4xLjFfeDY0X2VzLUVTLm1zaQpNNTl2UE5mamZFdVFxR1k0eVBJc21PWjZnQlNPWDRtZEhjWkFsQ0xjcTJOMzlqQUFlVkUxcGpVcEFXVU1jMlBYWG9aandoUEdKYzFuSkRjM0NRY3BCUT09Cg==",
-      "url": "https://github.com/TotalConta/Contaproces-Releases/releases/download/v0.1.1/Contaproces_0.1.1_x64_es-ES.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFBJdGpKT2J6TmpmR0RKSVprQmVWN1pBM3pxMU1SOTcwc3h5TlB4a3lTL2x1RTduSThVcEI3dFNaOGdLOVA3bk9HZjV1dk5aWHEvQlFKdzMweFBoNmhwVDlqMjdWU3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4Mjk4NjgyCWZpbGU6Q29udGFwcm9jZXNfMC4xLjJfeDY0X2VzLUVTLm1zaQpXS29tRUN2STZ0eDJBcEcwL3I1N3pWUnlwQ2FzRlVubXlWbzI1a1hROVVSZGZrZWFKR2hhMnUwbEhLUmZGbzYvWmV6bkJkdU44Z1lMd1ZOVERLaklBdz09Cg==",
+      "url": "https://github.com/TotalConta/Contaproces-Releases/releases/download/v0.1.2/Contaproces_0.1.2_x64_es-ES.msi"
     }
   }
 }
