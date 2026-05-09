@@ -1,6 +1,6 @@
 {
   "version": "0.1.2",
-  "notes": "¡Version de lanzamiento oficial",
+  "notes": "¡Se arregla bug menor que no permitia el ejecutar la tarea de vigilancia de Status Manualmente",
   "pub_date": "2026-04-16T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
