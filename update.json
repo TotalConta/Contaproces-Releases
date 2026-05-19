@@ -1,11 +1,11 @@
 {
   "version": "0.1.3",
-  "notes": "¡Se arregla bug que hacia que no se enviara el mensaje de whatsapp en el registro de cuestionario",
-  "pub_date": "2026-05-09T09:00:00Z",
+  "notes": "¡Se arregla bug que no permitia abrir el servidor automaticamente",
+  "pub_date": "2026-05-18T22:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFBJdGpKT2J6Tm9YMTRlZFBIQlFWMFFRQXIrRVc1UW4xMVJxbWpwVktKODIzRlJLTjhINEpVcWxTZUZnQXFVZWRPNWlORVFDakZtWllZUHhITmx4eUc4Qm96bU9iTFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzM4MzI5CWZpbGU6Q29udGFwcm9jZXNfMC4xLjNfeDY0X2VzLUVTLm1zaQp3TkV2UHFYdDRKYXdrK2NJZXo5YVJWazRNOGFNTjZlUWFEZzNrUjlYazJKKzRLOUtKeE9HcTEybTNmcmk2RWFsRFgvWDN6MXAzRHVScnlYWlh1L2hDQT09Cg==",
-      "url": "https://github.com/TotalConta/Contaproces-Releases/releases/download/v0.1.3/Contaproces_0.1.3_x64_es-ES.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaFBJdGpKT2J6TnVKUDF5ajFqMHRSQ1RHK2tCODdVdlBaNE5PbUUrUFdRRjJTNEJpU0U1WHRTS2lBOG5PVTlMUk1UVE1weDBqMGJYVW8wQmYxK1ZYeDZvejRvUUZHYkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTYxMjk4CWZpbGU6Q29udGFwcm9jZXNfMC4xLjRfeDY0X2VzLUVTLm1zaQpHRE1tRkVySFA2YTJiQVpUKzgvMDJtQWN1M1BRekJoSUlSVUlvMVE2R2xkTENTNUdWVzJ3TTNCYTNoWHdTYTE1Ylp4K2hCWGxhTGc1bW1hWHFBdjFEZz09Cg==",
+      "url": "https://github.com/TotalConta/Contaproces-Releases/releases/download/v0.1.4/Contaproces_0.1.4_x64_es-ES.msi"
     }
   }
 }
